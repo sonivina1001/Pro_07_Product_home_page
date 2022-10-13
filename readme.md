@@ -4,11 +4,11 @@
 
 ![Time Taken](https://img.shields.io/badge/TIME_TAKEN-01h:30m:00s-blue.svg)
 
-[![DEMO](https://img.shields.io/badge/SEE_DEMO-view-red.svg)](https://pro-01-street-style-core-html-and-css.netlify.app/)
+[![DEMO](https://img.shields.io/badge/SEE_DEMO-view-red.svg)](https://pro-07-product-home-page.netlify.app/)
 
 # Go Wireless Headphone
 
-> Project 1
+> Project 07
 
 |**Description**|
 |-----------|
@@ -45,7 +45,7 @@ HTML, CSS...
 
 ### Authors
 
-##### Vinayak_soni
+### Vinayak_soni
 
 
 
